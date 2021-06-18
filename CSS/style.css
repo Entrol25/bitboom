@@ -1,0 +1,107 @@
+#title{
+	color: black;
+}
+footer{
+	color: white;
+	font-size: 12px;
+}
+#headerfooter{
+	background: #22283E;
+}
+#onlyfooter{
+	color: white;
+}
+
+#mymenu{
+	margin-right:20px;
+}
+#mymenu2{
+	margin-right:1px;
+}
+#mydline{
+	line-height:26px; 
+}
+/* ------------------- spisoc background: yellow; ------------------- */
+#spisocleft{
+    
+	margin-bottom: 50px;
+}
+#spisoccenter{
+	
+	padding-left: 10px;
+	margin-bottom: 40px;
+} 
+
+#spisocright{
+	padding-left: 10px;
+	
+	/*
+	background: gray;
+	*/
+}
+#trezor{
+	background: #7FE54C;
+}
+#mycrypto{
+	background: yellow;
+}
+#x50{
+	background: #7FE54C;
+}
+/* ------------------- СТАТЬЯ СТРАНИЦА ------------------- */
+/* обычный текст */
+#stzagolovokh2{ 
+	/* 
+	  #2E3236   #373B3F   #4C5054  
+	  color: #373B3F; 
+	*/ 
+	color: #373B3F;
+	font-size: 21px;
+} 
+/* ------------------- СТАТЬЯ СТРАНИЦА ------------------- */
+/* ------------------- ГЛАВНАЯ СТРАНИЦА  ------------------- */
+/* заголовок h1 */
+#zagolovokh1{
+	color: #373B3F;
+	font-size: 27px;
+}
+/* заголовок h2 */
+#zagolovokh2{
+	color: #373B3F;
+	font-size: 23px;
+}
+/* текст заголовока h2 */
+#textzagolovokh2{
+	font-size: 21px;
+	color: #373B3F;
+}
+/* текст ссылки заголовока h2 */
+#ssilkazagolovokh2{ 
+	color: #373B3F;
+}
+
+/* обычный текст 
+#glhtxt{
+	font-size: 21px;
+	color: #373B3F;
+}
+*/
+/* -------- отступы 3 -------- */
+#mymargin{
+	margin-bottom: 20px;
+}
+#mymargin1{
+	margin-bottom: 20px;
+}
+#mymargin2{
+	margin-top: 22px;
+	margin-bottom: 20px;
+}
+#mymargin007{
+	margin-top: 8px;
+	margin-bottom: 20px;
+}
+
+/* ------------------- ГЛАВНАЯ СТРАНИЦА  ------------------- */
+
+

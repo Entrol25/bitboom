@@ -1,0 +1,14 @@
+Host: https://www.bitboom.info 
+
+User-agent: * 
+Disallow: /pages/mytest.php
+Allow: /.htaccess
+Allow: /google6160d5888c89fbcd.html 
+Allow: /CSS 
+Allow: /img 
+Allow: /includes 
+Allow: /pages 
+Allow: /favicon.png 
+Allow: /robots.txt 
+
+Sitemap: https://www.bitboom.info/sitemap.xml  
